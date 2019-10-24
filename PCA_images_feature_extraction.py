@@ -7,7 +7,7 @@ Created on Fri Jul  5 13:58:17 2019
 
 # As the PCA model is based on pixels, the alignment of the face (the position of eyes, chin, and nose) and the lighting both have a strong influence on how similar two images are in their pixel representation.
 
-#import graphviz
+import graphviz
 import mglearn
 import numpy as np 
 import matplotlib.pyplot as plt
